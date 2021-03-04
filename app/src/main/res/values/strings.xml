@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My User Api Github</string>
+    <string name="my_user_github">My User Github</string>
+    <string name="username">Username</string>
+    <string name="cari_pengguna">Cari Pengguna</string>
+    <string name="perusahaan">Perusahaan</string>
+    <string name="lokasi">Lokasi</string>
+    <string name="nama_pengguna">Nama Pengguna</string>
+    <string name="cari">Cari</string>
+    <string name="deskripsi">Deskripsi</string>
+</resources>
